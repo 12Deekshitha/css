@@ -1,7 +1,7 @@
 header{
 
     height:90px;
-    background-color:rgb(172, 172, 250);
+    background-color:black;
     display: flex;
     
 }
@@ -16,4 +16,5 @@ ul{
 }
 body{
     margin:0px;
+
 }
